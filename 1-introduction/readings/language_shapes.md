@@ -1,6 +1,7 @@
 ## Excerpt from "Does Your Language Shape How You Think?"
 ### by Guy Deutscher, NYTimes, 8/26/2010
 URL: [Culled from New York Times](https://www.nytimes.com/2010/08/29/magazine/29language-t.html)
+
 ...
 The area where the most striking evidence for the influence of language on
 thought has come to light is the language of space — how we describe the
@@ -14,6 +15,7 @@ may describe the same route, but they rely on different systems of coordinates.
 The first uses egocentric coordinates, which depend on our own bodies: a leftright
 axis and a front-back axis orthogonal to it. The second system uses fixed
 geographic directions, which do not rotate with us wherever we turn.
+
 We find it useful to use geographic directions when hiking in the open
 countryside, for example, but the egocentric coordinates completely dominate our
 speech when we describe small-scale spaces. We don’t say: “When you get out of
@@ -23,6 +25,7 @@ and more natural. After all, we always know where “behind” or “in front of
 is. We don’t need a map or a compass to work it out, we just feel it, because the
 egocentric coordinates are based directly on our own bodies and our immediate
 visual fields.
+
 But then a remote Australian aboriginal tongue, Guugu Yimithirr, from north
 Queensland, turned up, and with it came the astounding realization that not all
 languages conform to what we have always taken as simply “natural.” In fact,
@@ -38,6 +41,7 @@ left it on the southern edge of the western table.” Or they would warn you to
 television, they gave descriptions of it based on the orientation of the screen. If
 the television was facing north, and a man on the screen was approaching, they
 said that he was “coming northward.”
+
 When these peculiarities of Guugu Yimithirr were uncovered, they inspired a
 large-scale research project into the language of space. And as it happens, Guugu
 Yimithirr is not a freak occurrence; languages that rely primarily on geographical
@@ -57,6 +61,7 @@ landscape in the new village was entirely unfamiliar, he became disoriented and
 confused. Why didn’t the teacher use different instructions? He would probably
 have replied that saying “take three steps forward” or “bend backward” would be
 the height of absurdity.
+
 So different languages certainly make us speak about space in very different ways.
 But does this necessarily mean that we have to think about space differently? By
 now red lights should be flashing, because even if a language doesn’t have a word
@@ -83,6 +88,7 @@ matter of course. One report relates how a speaker of Tzeltal from southern
 Mexico was blindfolded and spun around more than 20 times in a darkened house.
 Still blindfolded and dizzy, he pointed without hesitation at the geographic
 directions.
+
 How does this work? The convention of communicating with geographic
 coordinates compels speakers from the youngest age to pay attention to the clues
 from the physical environment (the position of the sun, wind and so on) every
