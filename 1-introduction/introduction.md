@@ -80,7 +80,8 @@ However, the boundary between a compiler and an interpreter is not clear because
 We will do a quick read of a fundamental facet of programming: language and thought.
 This relates to a very interesting review of variations in human language conceptualization and processing by reviewing the Australian aboriginal language Guugu Yimithirr!
 
-Here is the excerpt:    ![Language Shaping](./readings/language_shapes.pdf)
+Here is the excerpt:    [Language Shaping](./readings/language_shapes.pdf)
+                        [Language Shaping](./readings/language_shapes.md)
 
 ![bytecode-machinecode](./images/bytecode-machinecode.png)
 (source: [geeksforgeeks.org: Difference between Byte Code and Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/))
