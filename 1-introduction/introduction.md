@@ -76,11 +76,12 @@ The key differences between a compiler and an interpreter are:
 
 However, the boundary between a compiler and an interpreter is not clear because there are compilers such as [Cython](https://cython.org/) that compiles Python source code to machine code. Another reason is that high-level languages such as Java or C# use a virtual machine to run their code. A virtual machine is similar to an interpreter. The virtual machine code is usually called **byte code** where the real machine code is called **machine code**. The **byte code** is an **intermediate representation (IR)** because it still needs to be converted into machine code by the virtual machine. You may think the Java Virtual Machine (JVM) as an interpreter as depicted in the following diagram.
 
+
+![bytecode-machinecode](./images/bytecode-machinecode.png)
+(source: [geeksforgeeks.org: Difference between Byte Code and Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/))
+
 ## Reading
 We will do a quick read of a fundamental facet of programming: language and thought.
 This relates to a very interesting review of variations in human language conceptualization and processing by reviewing the Australian aboriginal language Guugu Yimithirr!
 
 Here is the excerpt:    [Language Shaping](./readings/language_shapes.md)
-
-![bytecode-machinecode](./images/bytecode-machinecode.png)
-(source: [geeksforgeeks.org: Difference between Byte Code and Machine Code](https://www.geeksforgeeks.org/difference-between-byte-code-and-machine-code/))
