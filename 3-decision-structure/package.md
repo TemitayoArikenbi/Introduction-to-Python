@@ -60,9 +60,14 @@ $ python3 -m venv myenv
 $ source myenv/bin/activate
 ```
 ## Install wheel.
+```sh
 $ pip install wheel
-Install the package into your environment.
+```
+
+## Install the package into your environment.
+```sh
 $ pip install .
+```
 Our package has been created, and we can now use it from anywhere. Let’s create a simple app which incorporates our package contents.
 
 sample_prg.py
