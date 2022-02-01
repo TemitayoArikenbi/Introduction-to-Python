@@ -4,24 +4,26 @@ Create a package folder. You can call it example_pkg
 
 ## firstpackage.py
 
-def add_one(number):
+{def add_one(number):
     print("Our package adds 100 to the number we specify"),
-    return number + 100
+    return number + 100|
 
 ## Init and Setup Files
 Create a blank __init__.py file, which will be used by Python to recognize this as a package.
 $ touch __init__.py
+
 At this point, our file structure should look like this:
-dir/
+
+{dir/
     example_pkg/
               firstpackage.py
-              __init__.py
+              __init__.py}
 
 Next, create a setup.py file outside of your package directory
 
 ## setup.py
 
-import setuptools
+{import setuptools
 setuptools.setup(name='example_pkg',
 version='0.1',
 description='An example package',
@@ -30,7 +32,7 @@ author='tayo arikenbi',
 install_requires=['opencv-python'],
 author_email='tayo.arikenbi@csulb.edu',
 packages=setuptools.find_packages(),
-zip_safe=False)
+zip_safe=False)}
 
 Note that packages not included in the python standard library should be included in install_requires. Our file structure should now look like:
 
