@@ -31,7 +31,7 @@ Next, create a setup.py file outside of your package directory
 
 ```sh
 import setuptools
-setuptools.setup(name='example_pkg',
+setuptools.setup(name='example_pkg'),
 version='0.1',
 description='An example package',
 url='#',
