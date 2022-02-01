@@ -5,7 +5,7 @@ Create a package folder. You can call it example_pkg
 ## firstpackage.py
 
 def add_one(number):
-    print("Our package adds 100 to the number we specify")
+    print("Our package adds 100 to the number we specify"),
     return number + 100
 
 ## Init and Setup Files
