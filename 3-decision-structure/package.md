@@ -30,7 +30,7 @@ Next, create a setup.py file outside of your package directory
 ## setup.py
 
 ```sh
-{import setuptools
+import setuptools
 setuptools.setup(name='example_pkg',
 version='0.1',
 description='An example package',
@@ -39,7 +39,7 @@ author='tayo arikenbi',
 install_requires=['opencv-python'],
 author_email='tayo.arikenbi@csulb.edu',
 packages=setuptools.find_packages(),
-zip_safe=False)}
+zip_safe=False)
 ```
 
 Note that packages not included in the python standard library should be included in install_requires. Our file structure should now look like:
