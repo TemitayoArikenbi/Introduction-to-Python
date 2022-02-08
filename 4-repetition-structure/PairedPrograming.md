@@ -43,7 +43,7 @@ In Kindergarten, we have learnt the following −
 - Play fair
 
 - Do not hit people
-- 
+
 - Put things back where you found them
 
 - Clean up your own mess 
